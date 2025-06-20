@@ -29,20 +29,40 @@ Looking for **Software Developer** and **Full-Stack Developer** roles. Open to b
 
 ## 💻 Tech Stack
 
-**Languages:**  
-JavaScript · TypeScript · Python · C++ · Racket · Kotlin
+### 🧠 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)&nbsp;
+![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=flat)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
 
-**Frontend:**  
-React · Next.js · Redux · Tailwind CSS
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
-**Backend & Tools:**  
-Node.js · Express · Prisma · Jest · Redis · Git · Docker
+### ⚙️ Backend & Tools  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)&nbsp;
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
-**Databases:**  
-MongoDB · PostgreSQL · MySQL
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
-**Other:**  
-Firebase · OpenGL · Vercel · REST APIs
+### 🔧 Other  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)&nbsp;
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat)&nbsp;
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-6DB33F?style=flat)
+
 
 ---
 
